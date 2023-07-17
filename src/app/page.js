@@ -27,8 +27,8 @@ import Skills from "public/Skills.png";
 import Skills_w from "public/Skills-w.png";
 import Portfolio from "public/Portfolio.png";
 import Portfolio_w from "public/Portfolio-w.png";
-import about from "public/About Me.png";
-import about_w from "public/About Me-w.png";
+import about from "public/AboutMe.png";
+import about_w from "public/AboutMe-w.png";
 
 export default function Home() {
  const [darkMode,setDarkMode] = useState(false);
