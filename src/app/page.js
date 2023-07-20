@@ -93,9 +93,7 @@ export default function Home() {
           </div>
             <p className="text-lg py-2 leading-8 text-gray-800 dark:text-white lg:text-xl">
 
-              Since starting out as a designer and developer, I've done a lot of work, learned a lot and collaborated with talented people to create digital products for businesses and consumers.
-
-I offer a wide range of services, including brand design, programming .
+            Hello! 👋 My name is Anas Bounaim. 🧑‍💻 At 22, I hold a degree in computer development. I've honed strong skills in both programming 💻 and design 🎨, allowing me to create sophisticated and aesthetically pleasing software solutions. My expertise spans multiple programming languages and design tools. 🚀 For any inquiries or potential collaboration, feel free to reach out. 📬 You can email me at anasbounaiim1@gmail.com. 💌
             </p>
      
             <p className="text-lg py-2 leading-8 text-gray-800 lg:text-xl dark:text-white">
