@@ -9,10 +9,6 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import Image from "next/image";
-//import Green from "public/dev-ed-wave.png";
-import code from "public/code.png"; 
-import consulting from "public/consulting.png"; 
-import design from "public/design.png";
 import web2 from "public/web2.png";
 import web1 from "public/web1.png";
 import web3 from "public/web3.png";
@@ -93,9 +89,9 @@ export default function Home() {
           </div>
             <p className="text-lg py-2 leading-8 text-gray-800 dark:text-white lg:text-xl">
 
-            Hello there! 👋 My name is Anas Bounaim, a passionate and dedicated individual within the tech sphere. 🧑‍💻 At the young age of 22, I have already earned a degree in computer development, showcasing my commitment and enthusiasm in this ever-evolving field.
+            Hello there! 👋 My name is Anas Bounaim, a passionate and dedicated individual within the tech sphere. 🧑‍💻 At the young age of 22, I have already earned a degree in computer development, showcasing my commitment and enthusiasm in this ever-evolving field. <br /> <br />
 
-Over the course of my educational journey, I've cultivated strong competencies in programming 💻 and design 🎨. These skills equip me to create both technically advanced and visually pleasing software solutions, a blend of function and form that I believe is crucial in today's digital landscape.
+Over the course of my educational journey, I've cultivated strong competencies in programming 💻 and design 🎨. These skills equip me to create both technically advanced and visually pleasing software solutions, a blend of function and form that I believe is crucial in today's digital landscape. <br /> <br />
 
 My expertise isn't limited to a specific tool or language. Instead, it spans across a multitude of programming languages and design tools, demonstrating my versatility and adaptability in the face of diverse tech challenges. 🚀 </p>
      
@@ -113,16 +109,15 @@ My expertise isn't limited to a specific tool or language. Instead, it spans acr
           </div>
             <p className="text-lg py-2 leading-8 text-gray-800 dark:text-white lg:text-xl">
 
-              Since starting out as a designer and developer, I've done a lot of work, learned a lot and collaborated with talented people to create digital products for businesses and consumers.
+            Throughout my professional journey as a designer and developer, I have amassed a wealth of experience, acquired diverse skills, and fostered collaborations with highly talented individuals to craft exceptional digital products. 🚀✨  <br /> 
 
-I offer a wide range of services, including brand design, programming .
-            </p>
+Proficient in both brand design and programming, I consistently strive to deliver seamless user experiences that combine functionality with intuitive aesthetics. 🎨💻 <br />
+With a commitment to continuous learning and staying abreast of industry advancements, I am dedicated to pushing creative boundaries and providing innovative solutions in the ever-evolving digital landscape. 📚🌱💡</p> <br /> 
             <div className="mockup-code dark:bg-white my-10">
-  <pre data-prefix="~"><code>Magnam dolore beatae necessitatibus nemopsum itaque sit. Et porro quae qui et et dolore ratione.</code></pre>
+  <pre data-prefix="~"><code>".المهارة هي المفتاح الذي يفتح أبواب الإمكانية ويجعل الصعب ممكنًا"</code></pre>
 </div>
             <p className="text-lg py-2 leading-8 text-gray-800 lg:text-xl dark:text-white">
-              I offer from a wide range of services, including brand design,
-              programming and teaching.
+            I am proficient in both design and programming, offering a versatile skill set.
             </p>
         </div>
         <div className="lg:flex gap-10">
@@ -251,7 +246,7 @@ I offer a wide range of services, including brand design, programming .
 
 
 <div className="mockup-code dark:bg-white my-11">
-  <pre data-prefix="$"><code>buu --goodbye fellas</code></pre> 
+  <pre data-prefix="$"><code>buu -- شكراً على الزيارة (Shukran ʿalā al-ziyārah)</code></pre> 
   <pre data-prefix=">" className="text-warning"><code>leaving...</code></pre> 
   <pre data-prefix=">" className="text-success"><code>Done!</code></pre>
 </div>
